@@ -1,5 +1,7 @@
 
-# Martin D. | Data Scientist - Computer Vision - Edge AI Engineer
+# Martin D. 
+
+##  Data Scientist - Computer Vision - Edge AI Engineer
 
 Freelance data scientist with expertise in machine learning, signal processing, and full-stack development.
 
